@@ -1,0 +1,3 @@
+/home/owl/SharedWin/atividade-cmake/build/CMakeFiles/hello.dir
+/home/owl/SharedWin/atividade-cmake/build/CMakeFiles/edit_cache.dir
+/home/owl/SharedWin/atividade-cmake/build/CMakeFiles/rebuild_cache.dir
